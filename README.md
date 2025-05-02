@@ -1,14 +1,17 @@
-<div align="left">
-  <img src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="180"/>
-</div>
-
-<div align="right">
-  ### Software Developer
-  👉 *[luvvas.dev](https://luvvas-porfolio.vercel.app/)* 👈
+<div style="display: flex">
   
-  🌎 Curitiba, Brazil 🇧🇷  
-  ✨ AI • Web Dev • Design Systems  
-  👨‍💻 25 years old
+  <div align="left">
+    <img src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="180"/>
+  </div>
+
+  <div align="right">
+    ### Software Developer
+    👉 *[luvvas.dev](https://luvvas-porfolio.vercel.app/)* 👈
+    
+    🌎 Curitiba, Brazil 🇧🇷  
+    ✨ AI • Web Dev • Design Systems  
+    👨‍💻 25 years old
+  </div>
 </div>
 
 <div align="center">
