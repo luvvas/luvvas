@@ -8,7 +8,6 @@
   
   <div align="center">
     
-    👉 *[luvvas.dev](https://luvvas-porfolio.vercel.app/)* 👈
     🌎 Curitiba, Brazil 🇧🇷  
     ✨ AI • Web Dev • Design Systems  
     👨‍💻 25 years old
