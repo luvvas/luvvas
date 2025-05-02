@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="180"/>
   
   ### Software Developer
-  #### 👉 *[luvvas.dev](https://luvvas-porfolio.vercel.app/)* 👈
   
   🌎 Curitiba, Brazil 🇧🇷  
   ✨ AI • Web Dev • Design Systems  
@@ -19,3 +18,5 @@
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   
 </div>
+
+  #### 👉 *[luvvas.dev](https://luvvas-porfolio.vercel.app/)* 👈
