@@ -3,7 +3,10 @@
   </div>
   
   <div align="center">
-    ### Software Developer
+    Software Developer
+  </div>
+  
+  <div align="center">
     
     👉 *[luvvas.dev](https://luvvas-porfolio.vercel.app/)* 👈
     🌎 Curitiba, Brazil 🇧🇷  
