@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="180"/>
   
-  # Lucas
   ### Fullstack Developer
   
   🌎 Curitiba, Brazil 🇧🇷  
