@@ -2,12 +2,13 @@
   <img src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="180"/>
   
   <div style="margin-left: 20px;">
-    Hi, I'm Lucas.
 
+    Hi, I'm Lucas.
     I'm a fullstack developer
     + Curitiba, Brazil 🇧🇷
     ! AI • Web Dev • Design Systems
     - Age: 25
+    
   </div>
 </div>
 
