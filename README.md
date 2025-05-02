@@ -1,13 +1,13 @@
 <div style="display: flex">
   
-  <div align="left">
+  <div>
     <img src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="180"/>
   </div>
 
-  <div align="right">
+  <div>
     ### Software Developer
-    👉 *[luvvas.dev](https://luvvas-porfolio.vercel.app/)* 👈
     
+    👉 *[luvvas.dev](https://luvvas-porfolio.vercel.app/)* 👈
     🌎 Curitiba, Brazil 🇧🇷  
     ✨ AI • Web Dev • Design Systems  
     👨‍💻 25 years old
