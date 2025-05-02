@@ -6,9 +6,9 @@
   🌎 Curitiba, Brazil 🇧🇷  
   ✨ AI • Web Dev • Design Systems  
   👨‍💻 25 years old
+  👉 *[luvvas.dev](https://luvvas-porfolio.vercel.app/)* 👈
 </div>
 
-#### 👉 *[luvvas.dev]([https://anabastos.dev/](https://luvvas-porfolio.vercel.app/))* 👈
 
 <div align="center">
   
