@@ -1,10 +1,8 @@
-<div style="display: flex">
-  
-  <div>
+  <div align="center">
     <img src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="180"/>
   </div>
-
-  <div>
+  
+  <div align="center">
     ### Software Developer
     
     👉 *[luvvas.dev](https://luvvas-porfolio.vercel.app/)* 👈
@@ -12,7 +10,6 @@
     ✨ AI • Web Dev • Design Systems  
     👨‍💻 25 years old
   </div>
-</div>
 
 <div align="center">
   
