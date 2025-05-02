@@ -3,11 +3,8 @@
   </div>
   
   <div align="center">
+
     Software Developer
-  </div>
-  
-  <div align="center">
-    
     🌎 Curitiba, Brazil 🇧🇷  
     ✨ AI • Web Dev • Design Systems  
     👨‍💻 25 years old
