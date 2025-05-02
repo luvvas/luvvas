@@ -1,10 +1,4 @@
-<div align="center">
-  <table>
-    <tr>
-      <td width="220" align="center">
-        <img src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="180"/>
-      </td>
-      <td>
+<img align="center" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="180"/>
 
 ```diff
 Hi, I'm Lucas.
