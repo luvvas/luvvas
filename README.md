@@ -1,4 +1,7 @@
-<img align="center" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="180"/>
+<div style="display: flex; align-items: center; gap: 16px;">
+  <img src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="180"/>
+
+  <div>
 
 ```diff
 Hi, I'm Lucas.
