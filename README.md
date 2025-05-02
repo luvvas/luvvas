@@ -1,13 +1,15 @@
-<div align="center">
+<div align="left">
   <img src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="180"/>
-  
+</div>
+
+<div align="right">
   ### Software Developer
+  👉 *[luvvas.dev](https://luvvas-porfolio.vercel.app/)* 👈
   
   🌎 Curitiba, Brazil 🇧🇷  
   ✨ AI • Web Dev • Design Systems  
   👨‍💻 25 years old
 </div>
-
 
 <div align="center">
   
@@ -17,10 +19,4 @@
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   
-</div>
-
-<div align="center">
-  
-  #### 👉 *[luvvas.dev](https://luvvas-porfolio.vercel.app/)* 👈
-
 </div>
