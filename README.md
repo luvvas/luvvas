@@ -7,7 +7,7 @@
     Software Developer
     🌎 Curitiba, Brazil 🇧🇷  
     ✨ AI • Web Dev • Design Systems  
-    👨‍💻 25 years old
+    👨‍💻 26 years old
   </div>
 
 <div align="center">
